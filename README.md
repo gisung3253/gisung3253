@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=gisung3253)](https://solved.ac/gisung3253)
